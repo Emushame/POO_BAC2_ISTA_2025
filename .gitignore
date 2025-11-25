@@ -1,0 +1,6 @@
+# Don’t track installers and slides
+*.exe
+*.msi
+*.iso
+*.pptx
+Java Tools/
